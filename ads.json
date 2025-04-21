@@ -1,0 +1,25 @@
+{
+  "ads_manager": {
+    "mintegral": {
+      "showAds": fals,
+      "app_id": "xxxxxxx",
+      "app_key": "xxxxxxxx",
+      "banner": {
+        "placement_id": "xxxxxxx",
+        "unit_id": "xxxxxxxx"
+      },
+      "interstitial": {
+        "placement_id": "xxxxxxxx",
+        "unit_id": "xxxxxxxxxxx"
+      },
+      "native": {
+        "placement_id": "xxxxxxxx",
+        "unit_id": "xxxxxxxxx"
+      },
+      "reward": {
+        "placement_id": "xxxxxxx",
+        "unit_id": "xxxxxxxxxx"
+      }
+    }
+  }
+}
